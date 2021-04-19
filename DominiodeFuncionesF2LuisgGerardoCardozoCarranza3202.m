@@ -8,7 +8,7 @@
 % Notes			:Requiere aplicacion octave usar en consola preferentemente
 
 %Lamina 16_Ejercicio 1 f1(x)=x-1/x^5x+6
-% Si se graficá su comportamiento es radical
+% Si se graficá su comportamiento es cuadratico(parabolico)
 %Limpiar variables.
 clear
 %Dominio de la funcion.
