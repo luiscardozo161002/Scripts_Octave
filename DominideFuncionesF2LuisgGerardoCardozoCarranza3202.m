@@ -18,7 +18,7 @@ y=(x(-1)/((x)^5(x))+6);
 %Genera la grafica 
 plot(x,y,'b');
 %Asigna un nombre a la grafica 
-title("Modelo matematico Lamina 16 Ejericicio 1 f1(x)=4x/v2x-1");
+title("Modelo matematico Lamina 16 Ejericicio 1 f1(x)=x-1/x^{
 %Etiqueta para x
 xlabel("x");
 %Etiqueta para y
